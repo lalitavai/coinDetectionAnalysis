@@ -2,7 +2,7 @@
 
 This Python script detects and analyzes coins in an image using a series of image processing techniques and OpenCV functionalities. The program identifies coins, counts them, extracts contours, and displays results visually, such as connected components and filtered contours.
 
-![Alt text](doucmenr-scanner-project.png)
+![Alt text](coin-detections.png)
 ---
 
 ## Features
